@@ -1,0 +1,8 @@
+# Kaynakta kullanılan doğrudan bağımlılıkların bu kesit için seçimi.
+fastapi==0.115.0
+uvicorn==0.32.0
+pydantic==2.10.0
+SQLAlchemy==2.0.36
+slowapi==0.1.9
+mkdocs==1.6.1
+mkdocs-material==9.7.0

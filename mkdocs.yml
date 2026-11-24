@@ -1,0 +1,19 @@
+site_name: MühendisAl — açık aday
+site_description: MühendisAl öğrenme platformunun içeriksiz teknik kesiti
+site_author: Kemal (KarıncaAI)
+theme:
+  name: material
+  language: tr
+  font: false
+nav:
+  - Ana sayfa: index.md
+  - Dashboard: dashboard.md
+extra_css:
+  - assets/custom.css
+extra_javascript:
+  - assets/js/local-config.js
+  - assets/js/api-client.js
+  - assets/js/progress.js
+  - assets/js/dashboard.js
+  - assets/js/quiz.js
+  - assets/js/app.js
