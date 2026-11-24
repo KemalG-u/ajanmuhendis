@@ -8,6 +8,8 @@ A small technical slice of a Turkish AI-learning site ("MühendisAl"): a FastAPI
 
 It is the starting point for a planned "AjanMühendis" task / run / evidence / rubric studio. **That studio does not exist yet.** What is here today is only the backend and front-end code that was safe to extract. Lessons, translated reference pages and example projects are deliberately not included.
 
+How this differs from [muhendisal](https://github.com/KemalG-u/muhendisal): that repository is the course itself; this one holds only the extracted backend and dashboard code. It also shares nothing with [content-package-studio](https://github.com/KemalG-u/content-package-studio) beyond using FastAPI and SQLite: that one is a local app that turns collected sources into draft posts.
+
 ## Quick start
 
 Requirements: Python 3.12 and Node.js (for the JS tests). The pinned lock file `requirements-win312-lock.txt` was resolved for Windows x64 / CPython 3.12 only; on other platforms use `requirements.txt` instead.

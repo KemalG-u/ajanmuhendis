@@ -8,6 +8,8 @@ MühendisAl adlı Türkçe yapay zekâ öğrenme sitesinden seçilmiş küçük 
 
 Planlanan "AjanMühendis" görev / çalıştırma / kanıt / rubrik stüdyosunun başlangıç noktasıdır. **Bu stüdyo henüz yoktur.** Bugün burada yalnız çıkarılması güvenli olan arka uç ve ön yüz kodu vardır. Dersler, çeviri/referans sayfaları ve örnek projeler bilinçli olarak alınmadı.
 
+[muhendisal](https://github.com/KemalG-u/muhendisal) deposundan farkı: o depo kursun kendisidir; bu depoda yalnız çıkarılmış arka uç ve dashboard kodu vardır. [content-package-studio](https://github.com/KemalG-u/content-package-studio) ile FastAPI ve SQLite kullanmaktan başka ortak yanı yoktur: o, toplanan kaynakları taslak gönderiye çeviren yerel bir uygulamadır.
+
 ## Hızlı başlangıç
 
 Gereksinim: Python 3.12 ve (JS testleri için) Node.js. `requirements-win312-lock.txt` yalnız Windows x64 / CPython 3.12 için çözülmüştür; başka platformda `requirements.txt` kullanın.
